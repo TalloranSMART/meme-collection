@@ -33,6 +33,23 @@
       "emotion": "搞笑",
       "scene": "广东人教你说粤语；朋友说粤语很难听懂；炫耀自己是广东人；调侃方言梗的时候",
       "added": "2026-05-25"
+    },
+    {
+      "id": "003",
+      "name": "豹子亲小鹿",
+      "filename": "images/leopard-deer-kiss.jpg",
+      "url": "https://raw.githubusercontent.com/TalloranSMART/meme-collection/main/images/leopard-deer-kiss.jpg",
+      "tags": [
+        "动物",
+        "反差",
+        "温柔",
+        "天敌",
+        "搞笑",
+        "黄色meme"
+      ],
+      "emotion": "搞笑",
+      "scene": "表面温柔实则居心不良；朋友对你突然好得不寻常；甲方说「我们就改一个小地方」；老板说「辛苦一下这是最后一次」",
+      "added": "2026-05-25"
     }
   ]
 }
