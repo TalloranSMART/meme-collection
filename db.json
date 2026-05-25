@@ -1,3 +1,21 @@
 {
-  "memes": []
+  "memes": [
+    {
+      "id": "001",
+      "name": "当我听朋友的歌单时",
+      "filename": "images/listening-to-friends-playlist.jpg",
+      "url": "https://raw.githubusercontent.com/TalloranSMART/meme-collection/main/images/listening-to-friends-playlist.jpg",
+      "tags": [
+        "无语",
+        "音乐",
+        "朋友",
+        "嫌弃",
+        "反应包",
+        "搞笑"
+      ],
+      "emotion": "无语",
+      "scene": "朋友给你推歌单，但里面全是你听不下去的歌；别人安利自己的品味但你完全不认可的时候",
+      "added": "2026-05-25"
+    }
+  ]
 }
