@@ -49,6 +49,41 @@
       "emotion": "搞笑",
       "scene": "表面温柔实则居心不良；朋友对你突然好得不寻常；甲方说「我们就改一个小地方」；老板说「辛苦一下这是最后一次」",
       "added": "2026-05-25"
+    },
+    {
+      "id": "004",
+      "name": "别人的跨年vs你的跨年",
+      "filename": "images/new-year-single.jpg",
+      "url": "https://raw.githubusercontent.com/TalloranSMART/meme-collection/main/images/new-year-single.jpg",
+      "tags": [
+        "跨年",
+        "单身",
+        "宅",
+        "自嘲",
+        "感同身受",
+        "节日",
+        "二次元"
+      ],
+      "emotion": "无语",
+      "scene": "跨年夜朋友晒浪漫照片你却在家刷手机；节日被问「你们怎么过的」但其实哪也没去；单身自嘲的时候",
+      "added": "2026-05-25"
+    },
+    {
+      "id": "005",
+      "name": "你坐下急什么",
+      "filename": "images/sit-down-calm.jpg",
+      "url": "https://raw.githubusercontent.com/TalloranSMART/meme-collection/main/images/sit-down-calm.jpg",
+      "tags": [
+        "稳住",
+        "别急",
+        "反应包",
+        "影视",
+        "安抚",
+        "淡定"
+      ],
+      "emotion": "淡定",
+      "scene": "朋友在群里炸锅你想稳住场面；有人过度紧张你想让他冷静；回复「别慌」的时候",
+      "added": "2026-05-25"
     }
   ]
 }
