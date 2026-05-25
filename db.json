@@ -16,6 +16,23 @@
       "emotion": "无语",
       "scene": "朋友给你推歌单，但里面全是你听不下去的歌；别人安利自己的品味但你完全不认可的时候",
       "added": "2026-05-25"
+    },
+    {
+      "id": "002",
+      "name": "粤语教科书",
+      "filename": "images/yueyu-textbook.jpg",
+      "url": "https://raw.githubusercontent.com/TalloranSMART/meme-collection/main/images/yueyu-textbook.jpg",
+      "tags": [
+        "粤语",
+        "广东",
+        "搞笑",
+        "教科书",
+        "文化",
+        "生活"
+      ],
+      "emotion": "搞笑",
+      "scene": "广东人教你说粤语；朋友说粤语很难听懂；炫耀自己是广东人；调侃方言梗的时候",
+      "added": "2026-05-25"
     }
   ]
 }
